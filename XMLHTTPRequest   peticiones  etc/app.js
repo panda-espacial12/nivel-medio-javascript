@@ -1,0 +1,1 @@
+const peticion = new XMLHttpRequest();
